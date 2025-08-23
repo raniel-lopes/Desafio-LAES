@@ -102,5 +102,5 @@ Dado dois arrays **ordenados** `nums1` e `nums2`, encontre a mediana do array re
 
 ---
 
-## 🛠️ Tecnologias Sugeridas
+## 🛠️ Tecnologias Utilizada
 - Linguagens: **JavaScript**  
